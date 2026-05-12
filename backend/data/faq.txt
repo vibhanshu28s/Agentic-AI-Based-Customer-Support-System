@@ -1,0 +1,14 @@
+What is your refund policy?
+Customers can request refunds within 7 days.
+
+How can I reset my password?
+Click on "Forgot Password" on login page.
+
+How long does shipping take?
+Shipping usually takes 3-5 business days.
+
+Do you provide international shipping?
+Yes, we ship internationally.
+
+What is your cancellation policy?
+You Can not able to cancel order after shipping it.
