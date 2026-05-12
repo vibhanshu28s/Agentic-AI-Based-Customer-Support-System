@@ -187,7 +187,7 @@ This script:
 ## 6. Run Backend
 
 ```bash id="6eq7ce"
-uvicorn main:app --reload
+uvicorn main_fast:app --reload
 ```
 
 Backend will run on:
